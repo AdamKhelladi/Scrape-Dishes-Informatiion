@@ -1,4 +1,4 @@
-# Scrape https://www.buonissimo.it:
+# Scrape Data From https://www.buonissimo.it:
 
 import requests
 from bs4 import BeautifulSoup as bs
